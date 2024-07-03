@@ -15,7 +15,7 @@ const router = createBrowserRouter([
     children: [
       {
         path: "/",
-        element: <Languages />,
+        element: <Home />,
       },
       {
         path: "/setup",
